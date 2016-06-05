@@ -1,0 +1,6 @@
+{
+    "iEverX/hooktest": {
+        "push": "./hook.sh"
+    }
+}
+
